@@ -1,50 +1,20 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2018.5.16)  28 JUN 2018 02:29
- restricted system commands enabled.
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.6.13)  28 JUN 2018 03:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **soutenance.tex
 (./soutenance.tex
 LaTeX2e <2017-04-15>
-Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
-Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
-llection.(using write cache: /home/magloire/.texlive2017/texmf-var/luatex-cache/
-generic)(using read cache: /usr/local/texlive/2017/texmf-var/luatex-cache/generi
-c /home/magloire/.texlive2017/texmf-var/luatex-cache/generic)
-luaotfload | conf : Root cache directory is /home/magloire/.texlive2017/texmf-va
-r/luatex-cache/generic/names.
-luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
--resolved path “/usr/local/texlive/2017/texmf-dist/tex/luatex/luaotfload/fontl
-oader-2017-02-11.lua”.
-Lua-only attribute luaotfload@state = 1
-Lua-only attribute luaotfload@noligature = 2
-Lua-only attribute luaotfload@syllabe = 3
-luaotfload | init : Context OpenType loader version “3.027”
-Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 4
-luaotfload | conf : Root cache directory is /home/magloire/.texlive2017/texmf-va
-r/luatex-cache/generic/names.
-Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
-font'.
-Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
-_font'.
-Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
-t_unsafe'.
-Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
-'.
-Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
-.
-luaotfload | main : initialization completed in 0.591 seconds
-Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrreprt.cls
 Document Class: scrreprt 2017/04/13 v3.23 KOMA-Script document class (report)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-dependent ba
-sics and keyval usage)
+Package: scrkbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-independent b
-asics and keyval usage)
+Package: scrbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
@@ -70,18 +40,16 @@ Package tocbasic Info: omitting babel extension for `lof'
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 136.
-Package tocbasic Info: defining new hook before heading of `' on input line 1612
-.
+Package tocbasic Info: defining new hook before heading of `' on input line 161
+2.
 Class scrreprt Info: File `scrsize11pt.clo' used instead of
-(scrreprt)           file `scrsize11.clo' to setup font sizes on input line 2272
-.
+(scrreprt)           file `scrsize11.clo' to setup font sizes on input line 227
+2.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
-File: scrsize11pt.clo 2017/04/13 v3.23 KOMA-Script font size class option (11pt)
-
-luaotfload | db : Font names database loaded from /home/magloire/.texlive2017/te
-xmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /home/magloire
-/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc))
+File: scrsize11pt.clo 2017/04/13 v3.23 KOMA-Script font size class option (11pt
+)
+)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/typearea.sty
 Package: typearea 2017/04/13 v3.23 KOMA-Script package (type area)
 \ta@bcor=\skip42
@@ -135,92 +103,6 @@ Class scrreprt Info: Redefining `\numberline' on input line 5988.
 (/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2017/05/19 3.10 The Babel package
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/luababel.def
-\l@dumylang=\language2
-Package babel Info: Non-standard hyphenation setup on input line 122.
-\l@nohyphenation=\language3
-\l@german-x-2017-03-31=\language4
-\l@ngerman-x-2017-03-31=\language5
-\l@afrikaans=\language6
-\l@ancientgreek=\language7
-\l@ibycus=\language8
-\l@arabic=\language9
-\l@armenian=\language10
-\l@basque=\language11
-\l@belarusian=\language12
-\l@bulgarian=\language13
-\l@catalan=\language14
-\l@pinyin=\language15
-\l@churchslavonic=\language16
-\l@coptic=\language17
-\l@croatian=\language18
-\l@czech=\language19
-\l@danish=\language20
-\l@dutch=\language21
-\l@ukenglish=\language22
-\l@usenglishmax=\language23
-\l@esperanto=\language24
-\l@estonian=\language25
-\l@ethiopic=\language26
-\l@farsi=\language27
-\l@finnish=\language28
-\l@french=\language29
-\l@friulan=\language30
-\l@galician=\language31
-\l@georgian=\language32
-\l@german=\language33
-\l@ngerman=\language34
-\l@swissgerman=\language35
-\l@monogreek=\language36
-\l@greek=\language37
-\l@hungarian=\language38
-\l@icelandic=\language39
-\l@assamese=\language40
-\l@bengali=\language41
-\l@gujarati=\language42
-\l@hindi=\language43
-\l@kannada=\language44
-\l@malayalam=\language45
-\l@marathi=\language46
-\l@oriya=\language47
-\l@panjabi=\language48
-\l@tamil=\language49
-\l@telugu=\language50
-\l@indonesian=\language51
-\l@interlingua=\language52
-\l@irish=\language53
-\l@italian=\language54
-\l@kurmanji=\language55
-\l@latin=\language56
-\l@classiclatin=\language57
-\l@liturgicallatin=\language58
-\l@latvian=\language59
-\l@lithuanian=\language60
-\l@mongolian=\language61
-\l@mongolianlmc=\language62
-\l@bokmal=\language63
-\l@nynorsk=\language64
-\l@occitan=\language65
-\l@piedmontese=\language66
-\l@polish=\language67
-\l@portuguese=\language68
-\l@romanian=\language69
-\l@romansh=\language70
-\l@russian=\language71
-\l@sanskrit=\language72
-\l@serbian=\language73
-\l@serbianc=\language74
-\l@slovak=\language75
-\l@slovenian=\language76
-\l@spanish=\language77
-\l@swedish=\language78
-\l@thai=\language79
-\l@turkish=\language80
-\l@turkmen=\language81
-\l@ukrainian=\language82
-\l@uppersorbian=\language83
-\l@welsh=\language84
-)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/babel-french/frenchb.ldf
 Language: frenchb 2017/04/30 v3.3a French support from the babel system
 
@@ -229,18 +111,21 @@ File: babel.def 2017/05/19 3.10 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/luababel.def))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/xebabel.def))
 \l@acadian = a dialect from \language\l@french 
 \l@canadien = a dialect from \language\l@french 
 \FB@nonchar=\count90
 \FBcolonsp=\toks15
 \FBthinsp=\toks16
-\FB@spacing=\attribute5
-\FB@addDPspace=\attribute6
-\FB@addGUILspace=\attribute7
 Package frenchb.ldf Info: No need for active punctuation characters
-(frenchb.ldf)             with this version of LuaTeX!
-(frenchb.ldf)             reported on input line 229.
+(frenchb.ldf)             with this version of XeTeX!
+(frenchb.ldf)             reported on input line 274.
+\FB@punctthick=\XeTeXcharclass1
+\FB@punctthin=\XeTeXcharclass2
+\FB@punctnul=\XeTeXcharclass3
+\FB@guilo=\XeTeXcharclass4
+\FB@guilf=\XeTeXcharclass5
+\FB@guilnul=\XeTeXcharclass6
 \FBguillsp=\toks17
 \FBguill@level=\count91
 \FB@everypar=\toks18
@@ -257,13 +142,7 @@ LaTeX Info: Redefining \degres on input line 721.
 \leftmarginFB=\skip59
 \parindentFFN=\dimen105
 \FBfnindent=\skip60
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-fr.
-tex UTF-8 French hyphenation patterns
-(/usr/local/texlive/2017/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-fr.
-tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-q
-uote-fr.tex))))
+))
 (/usr/local/texlive/2017/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
@@ -291,7 +170,6 @@ Package: expl3 2017/05/13 L3 programming layer (loader)
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2017/05/13 L3 programming layer (code)
-\ucharcat@table=\catcodetable5
 \c_max_int=\count97
 \l_tmpa_int=\count98
 \l_tmpb_int=\count99
@@ -331,20 +209,17 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \c__fp_Bigg_leading_shift_int=\count115
 \c__fp_Bigg_middle_shift_int=\count116
 \c__fp_Bigg_trailing_shift_int=\count117
-\c__fp_rand_size_int=\count118
-\c__fp_rand_four_int=\count119
-\c__fp_rand_eight_int=\count120
-\l__sort_length_int=\count121
-\l__sort_min_int=\count122
-\l__sort_top_int=\count123
-\l__sort_max_int=\count124
-\l__sort_true_max_int=\count125
-\l__sort_block_int=\count126
-\l__sort_begin_int=\count127
-\l__sort_end_int=\count128
-\l__sort_A_int=\count129
-\l__sort_B_int=\count130
-\l__sort_C_int=\count131
+\l__sort_length_int=\count118
+\l__sort_min_int=\count119
+\l__sort_top_int=\count120
+\l__sort_max_int=\count121
+\l__sort_true_max_int=\count122
+\l__sort_block_int=\count123
+\l__sort_begin_int=\count124
+\l__sort_end_int=\count125
+\l__sort_A_int=\count126
+\l__sort_B_int=\count127
+\l__sort_C_int=\count128
 \c_empty_box=\box28
 \l_tmpa_box=\box29
 \l_tmpb_box=\box30
@@ -386,32 +261,31 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \l__coffin_scaled_total_height_dim=\dimen135
 \l__coffin_scaled_width_dim=\dimen136
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count132
+(/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
 \l__driver_tmp_box=\box43
 ))
 (/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2017/05/13 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count133
-\g__xparse_grabber_int=\count134
-\l__xparse_m_args_int=\count135
-\l__xparse_mandatory_args_int=\count136
-\l__xparse_v_nesting_int=\count137
+\l__xparse_current_arg_int=\count129
+\g__xparse_grabber_int=\count130
+\l__xparse_m_args_int=\count131
+\l__xparse_mandatory_args_int=\count132
+\l__xparse_v_nesting_int=\count133
 )
 Package: fontspec 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2017/03/31 2.6a Font selection for XeLaTeX and LuaLaTeX
-(/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTe
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count138
-\l__fontspec_language_int=\count139
-\l__fontspec_strnum_int=\count140
-\l__fontspec_tmp_int=\count141
-\l__fontspec_em_int=\count142
-\l__fontspec_emdef_int=\count143
-\l__fontspec_strong_int=\count144
-\l__fontspec_strongdef_int=\count145
+\l__fontspec_script_int=\count134
+\l__fontspec_language_int=\count135
+\l__fontspec_strnum_int=\count136
+\l__fontspec_tmp_int=\count137
+\l__fontspec_em_int=\count138
+\l__fontspec_emdef_int=\count139
+\l__fontspec_strong_int=\count140
+\l__fontspec_strongdef_int=\count141
 \l__fontspec_tmpa_dim=\dimen137
 \l__fontspec_tmpb_dim=\dimen138
 \l__fontspec_tmpc_dim=\dimen139
@@ -427,184 +301,181 @@ LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \fontspec with sig. 'O{}mO{}' on line 475.
+. Defining command \fontspec with sig. 'O{}mO{}' on line 472.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 486.
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 483.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 506.
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 503.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 526.
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 523.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setromanfont with sig. 'O{}mO{}' on line 546.
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 543.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 550.
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 547.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 558.
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 555.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 566.
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 563.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathtt with sig. 'O{}mO{}' on line 574.
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 571.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 589.
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 586.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 606.
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 603.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 617.
+. Defining command \defaultfontfeatures with sig. 't+om' on line 614.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addfontfeatures with sig. 'm' on line 648.
+. Defining command \addfontfeatures with sig. 'm' on line 645.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfeature with sig. 'mm' on line 675.
+. Defining command \newfontfeature with sig. 'mm' on line 672.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newAATfeature with sig. 'mmmm' on line 689.
+. Defining command \newAATfeature with sig. 'mmmm' on line 686.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newopentypefeature with sig. 'mmm' on line 703.
+. Defining command \newopentypefeature with sig. 'mmm' on line 700.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newICUfeature with sig. 'mmm' on line 723.
+. Defining command \newICUfeature with sig. 'mmm' on line 720.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeature with sig. 'mm' on line 727.
+. Defining command \aliasfontfeature with sig. 'mm' on line 724.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 748.
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 745.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontscript with sig. 'mm' on line 781.
+. Defining command \newfontscript with sig. 'mm' on line 778.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontlanguage with sig. 'mm' on line 785.
+. Defining command \newfontlanguage with sig. 'mm' on line 782.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 789.
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 786.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 800.
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 797.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3162.
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3438.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingAccent with sig. 'mm' on line 3168.
+. Defining command \EncodingAccent with sig. 'mm' on line 3444.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3174.
+. Defining command \EncodingSymbol with sig. 'mm' on line 3450.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3180.
+. Defining command \EncodingComposite with sig. 'mmm' on line 3456.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3186.
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3462.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3211.
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3487.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3217.
+. Defining command \UndeclareSymbol with sig. 'm' on line 3493.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3225.
+. Defining command \UndeclareComposite with sig. 'mm' on line 3501.
 .................................................
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3410.
-LaTeX Info: Redefining \slshape on input line 3415.
-LaTeX Info: Redefining \scshape on input line 3420.
-LaTeX Info: Redefining \upshape on input line 3425.
-LaTeX Info: Redefining \em on input line 3455.
-LaTeX Info: Redefining \emph on input line 3480.
-(load luc: /home/magloire/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/
-lmroman10-bold.luc)(load luc: /home/magloire/.texlive2017/texmf-var/luatex-cache
-/generic/fonts/otl/lmroman10-italic.luc)
-LaTeX Info: Redefining \- on input line 3531.
+LaTeX Info: Redefining \itshape on input line 3686.
+LaTeX Info: Redefining \slshape on input line 3691.
+LaTeX Info: Redefining \scshape on input line 3696.
+LaTeX Info: Redefining \upshape on input line 3701.
+LaTeX Info: Redefining \em on input line 3731.
+LaTeX Info: Redefining \emph on input line 3756.
+LaTeX Info: Redefining \- on input line 3807.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \oldstylenums with sig. 'm' on line 3626.
+. Redefining command \oldstylenums with sig. 'm' on line 3902.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \liningnums with sig. 'm' on line 3630.
+. Defining command \liningnums with sig. 'm' on line 3906.
 .................................................
 ))
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count146
+\c@lips@count=\count142
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
@@ -612,24 +483,24 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count147
-\c@Blindtext=\count148
-\c@blind@countparstart=\count149
-\blind@countxx=\count150
-\blindtext@numBlindtext=\count151
-\blind@countyy=\count152
-\c@blindlist=\count153
-\c@blindlistlevel=\count154
-\c@blindlist@level=\count155
-\blind@listitem=\count156
-\c@blind@listcount=\count157
-\c@blind@levelcount=\count158
-\blind@mathformula=\count159
-\blind@Mathformula=\count160
-\c@blind@randomcount=\count161
-\c@blind@randommax=\count162
-\c@blind@pangramcount=\count163
-\c@blind@pangrammax=\count164
+\c@blindtext=\count143
+\c@Blindtext=\count144
+\c@blind@countparstart=\count145
+\blind@countxx=\count146
+\blindtext@numBlindtext=\count147
+\blind@countyy=\count148
+\c@blindlist=\count149
+\c@blindlistlevel=\count150
+\c@blindlist@level=\count151
+\blind@listitem=\count152
+\c@blind@listcount=\count153
+\c@blind@levelcount=\count154
+\blind@mathformula=\count155
+\blind@Mathformula=\count156
+\c@blind@randomcount=\count157
+\c@blind@randommax=\count158
+\c@blind@pangramcount=\count159
+\c@blind@pangrammax=\count160
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -646,18 +517,11 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: luatex.def on input line 99.
+Package graphics Info: Driver file: xetex.def on input line 99.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/luatex.def
-File: luatex.def 2017/01/12 v0.01h Graphics/Color for luaTeX
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count165
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
+JK)
 ))
 \Gin@req@height=\dimen140
 \Gin@req@width=\dimen141
@@ -706,12 +570,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \footskip       = 77.01659pt
 (typearea)              \baselineskip   = 22.00475pt
 (typearea)              on input line 25.
-(load luc: /home/magloire/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/
-lmroman12-regular.luc)(load luc: /home/magloire/.texlive2017/texmf-var/luatex-ca
-che/generic/fonts/otl/robotocondensed-regular.luc)
-\g__fontspec_family_RobotoCondensed_int=\count166
-(load luc: /home/magloire/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/
-robotocondensed-bold.luc)
+\g__fontspec_family_RobotoCondensed_int=\count161
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -722,21 +581,23 @@ robotocondensed-bold.luc)
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"[RobotoCondensed-Regular.ttf]:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"[RobotoCondensed-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-te
+xt;"
 . - 'small caps'  (m/sc) with NFSS spec.:
-. <->"[RobotoCondensed-Regular.ttf]:mode=node;script=latn;language=DFLT;+tlig;+s
-mcp;"
+. <->"[RobotoCondensed-Regular.ttf]/OT:script=latn;language=DFLT;+smcp;mapping=
+tex-text;"
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"[RobotoCondensed-Bold.ttf]:mode=node;script=latn;language=DFLT;+tlig;"
+. <->"[RobotoCondensed-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;
+"
 . - 'bold small caps'  (bx/sc) with NFSS spec.:
-. <->"[RobotoCondensed-Bold.ttf]:mode=node;script=latn;language=DFLT;+tlig;+smcp
-;"
+. <->"[RobotoCondensed-Bold.ttf]/OT:script=latn;language=DFLT;+smcp;mapping=tex
+-text;"
 .................................................
 LaTeX Info: Redefining \sffamily on input line 31.
 ) (./title.tex) (./soutenance.aux (./dedicaces.aux) (./remerciement.aux)
 (./abstract.aux) (./resume.aux) (./accueil.aux) (./cadre-contextuel.aux)
 (./plate-forme.aux) (./conclusion.aux) (./bibliographie.aux))
-\openout1 = soutenance.aux
+\openout1 = `soutenance.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -754,7 +615,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Info: Redefining \dots on input line 8.
 LaTeX Info: Redefining \up on input line 8.
-Inserting `frenchb.french_punctuation' at position 1 in `kerning'.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -802,8 +662,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 8.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/RobotoCondensed(0)/m/n on input line
- 8.
+(Font)                  OT1/cmss/m/n --> TU/RobotoCondensed(0)/m/n on input lin
+e 8.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 8.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
@@ -811,72 +671,12 @@ LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 8.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/RobotoCondensed(0)/bx/n on input li
-ne 8.
+(Font)                  OT1/cmss/bx/n --> TU/RobotoCondensed(0)/bx/n on input l
+ine 8.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 8.
-
-(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count167
-\scratchdimen=\dimen142
-\scratchbox=\box44
-\nofMPsegments=\count168
-\nofMParguments=\count169
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count170
-\MPscratchDim=\dimen143
-\MPnumerator=\count171
-\makeMPintoPDFobject=\count172
-\everyMPtoPDFconversion=\toks22
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX detected.
-))))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
-
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks23
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
-8.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG
-,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-
-))(load luc: /home/magloire/.texlive2017/texmf-var/luatex-cache/generic/fonts/ot
-l/lmroman17-regular.luc)
-LaTeX Font Info:    Calculating math sizes for size <20.16003> on input line 10.
-
+LaTeX Font Info:    Calculating math sizes for size <20.16003> on input line 10
+.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <20.16003> not available
@@ -900,11 +700,8 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20.16003> not available
 
 
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./soutenance.toc
+] (./soutenance.toc
 LaTeX Font Info:    Calculating math sizes for size <14> on input line 8.
-(load luc: /home/magloire/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/
-lmroman7-regular.luc)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -915,17 +712,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ])
 \tf@toc=\write3
+\openout3 = `soutenance.toc'.
 
-\openout3 = soutenance.toc
  [3]
-\openout2 = dedicaces.aux
+\openout2 = `dedicaces.aux'.
+
  (./dedicaces.tex
 chapter 1.
 ) [4
 
 
 ]
-\openout2 = remerciement.aux
+\openout2 = `remerciement.aux'.
+
  (./remerciement.tex
 chapter 2.
 ) [5
@@ -933,202 +732,277 @@ chapter 2.
 
 
 ]
-\openout2 = abstract.aux
- (./abstract.tex
+\openout2 = `abstract.aux'.
+
+
+No file abstract.tex.
+\openout2 = `resume.aux'.
+
+(./resume.tex
 chapter 3.
 ) [6
 
 
 
-]
-\openout2 = resume.aux
- (./resume.tex
+
+
+] (./introduction.tex
 chapter 4.
 ) [7
 
 
-
-] (./introduction.tex
-chapter 5.
-) [8
-
-
 ]
-\openout2 = accueil.aux
+\openout2 = `accueil.aux'.
+
  (./accueil.tex
-chapter 6.
-(./presentation.tex) (./reference.tex [9
+chapter 5.
+(./presentation.tex) (./reference.tex [8
 
 
-]) (./deroulement.tex [10])) [11
-Missing character: There is no  (U+F0D8) in font [lmroman12-regular]:+tlig;!
-Missing character: There is no  (U+F0D8) in font [lmroman12-regular]:+tlig;!
-]
-\openout2 = cadre-contextuel.aux
+]) (./deroulement.tex
+Missing character: There is no  in font [lmroman12-regular]:mapping=tex-text;!
+ [9]
+Missing character: There is no  in font [lmroman12-regular]:mapping=tex-text;!
+)) [10]
+\openout2 = `cadre-contextuel.aux'.
+
 
 (./cadre-contextuel.tex
-chapter 7.
-(./problematique.tex) [12
+chapter 6.
+(./problematique.tex) [11
 
 
 
-] (./environnement.tex)) [13]
-\openout2 = plate-forme.aux
+] (./environnement.tex)) [12]
+\openout2 = `plate-forme.aux'.
+
  (./plate-forme.tex
-chapter 8.
+chapter 7.
 (./concepte.tex (./commerce.tex)
-Overfull \hbox (14.44876pt too wide) in paragraph at lines 6--5
-\TU/lmr/m/n/14 des dif-fé-rents types de ter-mi-naux (Or-di-na-teurs,ta-blette
-s,smart-phones,consoles,TV
+Overfull \hbox (14.44882pt too wide) in paragraph at lines 6--5
+\TU/lmr/m/n/14 des différents types de terminaux (Ordinateurs,tablettes,smartph
+ones,consoles,TV
  []
 
-(./marche.tex) (./vendeur.tex) [14
+(./marche.tex) (./vendeur.tex) [13
 
 
 
 ] (./acheteur.tex) (./boutique.tex))
-(./approche.tex [15] (./methode.tex [16] (./backlog.tex) (./items.tex) [17]
-(./sprint.tex) (./melee.tex [18]))) (./analyse.tex [19] (./etude.tex [20])
-(./diagramme.tex [21]
-<mama/images/Effectuer.png, id=72, 578.91281pt x 712.16063pt>
-File: mama/images/Effectuer.png Graphic file (type png)
-
-<use mama/images/Effectuer.png>
-Package luatex.def Info: mama/images/Effectuer.png used on input line 12.
-(luatex.def)             Requested size: 328.62793pt x 404.26231pt.
- [22<./mama/images/Effectuer.png>])
+(./approche.tex [14] (./methode.tex [15] (./backlog.tex) (./items.tex) [16]
+(./sprint.tex) (./melee.tex [17]))) (./analyse.tex [18] (./etude.tex [19])
+(./diagramme.tex [20]
+File: mama/images/Effectuer.png Graphic file (type QTm)
+ <use  "mama/images/Effectuer.png" > [21])
 (./utilisation.tex
-<mama/images/utilisation.png, id=77, 780.66656pt x 591.71063pt>
-File: mama/images/utilisation.png Graphic file (type png)
-
-<use mama/images/utilisation.png>
-Package luatex.def Info: mama/images/utilisation.png used on input line 8.
-(luatex.def)             Requested size: 361.49272pt x 273.99594pt.
-
+File: mama/images/utilisation.png Graphic file (type QTm)
+ <use  "mama/images/utilisation.png" >
 Overfull \hbox (46.9499pt too wide) in paragraph at lines 6--12
 []$[]$
  []
 
-) (./diagramme1.tex [23<./mama/images/utilisation.png>]
-<mama/images/séquence.png, id=82, 870.25125pt x 1154.81438pt>
-File: mama/images/séquence.png Graphic file (type png)
+) (./diagramme1.tex [22]
+File: mama/images/séquence.png Graphic file (type QTm)
+ <use  "mama/images/séquence.png" > [23]
+File: mama/images/classes.png Graphic file (type QTm)
 
-<use mama/images/séquence.png>
-Package luatex.def Info: mama/images/séquence.png used on input line 15.
-(luatex.def)             Requested size: 262.90334pt x 348.8787pt.
- [24<./mama/images/séquence.png>]
-<mama/images/classes.png, id=87, 861.9703pt x 1090.0725pt>
-File: mama/images/classes.png Graphic file (type png)
+<use  "mama/images/classes.png" >) [24] (./diagramme2.tex
+File: mama/images/Deployment.png Graphic file (type QTm)
 
-<use mama/images/classes.png>
-Package luatex.def Info: mama/images/classes.png used on input line 27.
-(luatex.def)             Requested size: 328.62793pt x 415.59578pt.
-) [25<./mama/images/classes.png>]
-(./diagramme2.tex
-<mama/images/Deployment.png, id=92, 805.50937pt x 624.08156pt>
-File: mama/images/Deployment.png Graphic file (type png)
-
-<use mama/images/Deployment.png>
-Package luatex.def Info: mama/images/Deployment.png used on input line 6.
-(luatex.def)             Requested size: 394.35251pt x 305.52647pt.
-
+<use  "mama/images/Deployment.png" >
 Overfull \hbox (93.89267pt too wide) in paragraph at lines 5--10
 []$[]$
  []
 
-[26<./mama/images/Deployment.png>])) (./implementation.tex (./oqueyite.tex
-Overfull \hbox (1.06934pt too wide) in paragraph at lines 3--5
-[]\TU/lmr/m/n/14 Oqe-nyite est une plate forme d’e-commerce d’en-ver-gure P
-an-afri-caine, bien conçu
+[25])) (./implementation.tex (./oqueyite.tex
+Overfull \hbox (1.06949pt too wide) in paragraph at lines 3--5
+[]\TU/lmr/m/n/14 Oqenyite est une plate forme d’e-commerce d’envergure Panafric
+aine, bien conçu
  []
 
-<../../Mama/mama/images/A.png, id=97, 722.7pt x 1284.8pt>
-File: ../../Mama/mama/images/A.png Graphic file (type png)
 
-<use ../../Mama/mama/images/A.png>
-Package luatex.def Info: ../../Mama/mama/images/A.png used on input line 18.
-(luatex.def)             Requested size: 105.63014pt x 187.77136pt.
-(load luc: /home/magloire/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/
-lmromancaps10-regular.luc) [27]
-<../../Mama/mama/images/C.png, id=101, 722.7pt x 1284.8pt>
-File: ../../Mama/mama/images/C.png Graphic file (type png)
+! LaTeX Error: File `../../Mama/mama/images/A' not found.
 
-<use ../../Mama/mama/images/C.png>
-Package luatex.def Info: ../../Mama/mama/images/C.png used on input line 30.
-(luatex.def)             Requested size: 105.63014pt x 187.77136pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...h=0.5\linewidth]{../../Mama/mama/images/A}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[26]
+
+! LaTeX Error: File `../../Mama/mama/images/C' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 ...h=0.5\linewidth]{../../Mama/mama/images/C}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 31--31
 []\TU/lmr/m/n/14 Page d’accueil-
  []
 
-<../../Mama/mama/images/D.png, id=102, 722.7pt x 1284.8pt>
-File: ../../Mama/mama/images/D.png Graphic file (type png)
 
-<use ../../Mama/mama/images/D.png>
-Package luatex.def Info: ../../Mama/mama/images/D.png used on input line 38.
-(luatex.def)             Requested size: 105.63014pt x 187.77136pt.
- [28<../../Mama/mama/images/A.png><../../Mama/mama/images/C.png>]
-<../../Mama/mama/images/E.png, id=107, 722.7pt x 1284.8pt>
-File: ../../Mama/mama/images/E.png Graphic file (type png)
+! LaTeX Error: File `../../Mama/mama/images/D' not found.
 
-<use ../../Mama/mama/images/E.png>
-Package luatex.def Info: ../../Mama/mama/images/E.png used on input line 46.
-(luatex.def)             Requested size: 105.63014pt x 187.77136pt.
- [29<../../Mama/mama/images/D.png><../../Mama/mama/images/E.png>]
-<../../Mama/mama/images/F.png, id=111, 722.7pt x 1284.8pt>
-File: ../../Mama/mama/images/F.png Graphic file (type png)
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...h=0.5\linewidth]{../../Mama/mama/images/D}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<use ../../Mama/mama/images/F.png>
-Package luatex.def Info: ../../Mama/mama/images/F.png used on input line 56.
-(luatex.def)             Requested size: 105.63014pt x 187.77136pt.
+
+! LaTeX Error: File `../../Mama/mama/images/E' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...h=0.5\linewidth]{../../Mama/mama/images/E}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `../../Mama/mama/images/F' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...h=0.5\linewidth]{../../Mama/mama/images/F}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 57--57
-[]\TU/lmr/m/n/14 Ajou-ter produit-
+[]\TU/lmr/m/n/14 Ajouter produit-
  []
 
-<../../Mama/mama/images/H.png, id=112, 722.7pt x 1284.8pt>
-File: ../../Mama/mama/images/H.png Graphic file (type png)
+[27]
 
-<use ../../Mama/mama/images/H.png>
-Package luatex.def Info: ../../Mama/mama/images/H.png used on input line 67.
-(luatex.def)             Requested size: 105.63014pt x 187.77136pt.
+! LaTeX Error: File `../../Mama/mama/images/H' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 ...h=0.5\linewidth]{../../Mama/mama/images/H}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 4303) in paragraph at lines 68--68
-[]\TU/lmr/m/n/14 Le panier-- source
+[]\TU/lmr/m/n/14 Le panier– source
  []
 
-[30<../../Mama/mama/images/F.png>]
-<../../Mama/mama/images/I.png, id=116, 722.7pt x 1284.8pt>
-File: ../../Mama/mama/images/I.png Graphic file (type png)
 
-<use ../../Mama/mama/images/I.png>
-Package luatex.def Info: ../../Mama/mama/images/I.png used on input line 78.
-(luatex.def)             Requested size: 105.63014pt x 187.77136pt.
- [31<../../Mama/mama/images/H.png><../../Mama/mama/images/I.png>]
-<../../Mama/mama/images/J.png, id=121, 722.7pt x 1284.8pt>
-File: ../../Mama/mama/images/J.png Graphic file (type png)
+! LaTeX Error: File `../../Mama/mama/images/I' not found.
 
-<use ../../Mama/mama/images/J.png>
-Package luatex.def Info: ../../Mama/mama/images/J.png used on input line 88.
-(luatex.def)             Requested size: 105.63014pt x 187.77136pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 ...h=0.5\linewidth]{../../Mama/mama/images/I}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<../../Mama/mama/images/K.png, id=122, 722.7pt x 1284.8pt>
-File: ../../Mama/mama/images/K.png Graphic file (type png)
 
-<use ../../Mama/mama/images/K.png>
-Package luatex.def Info: ../../Mama/mama/images/K.png used on input line 96.
-(luatex.def)             Requested size: 105.63014pt x 187.77136pt.
+! LaTeX Error: File `../../Mama/mama/images/J' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...h=0.5\linewidth]{../../Mama/mama/images/J}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `../../Mama/mama/images/K' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 ...h=0.5\linewidth]{../../Mama/mama/images/K}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 2495) in paragraph at lines 97--97
 []\TU/lmr/m/n/14 La facture- source
  []
 
-<../../Mama/mama/images/M.png, id=123, 722.7pt x 1284.8pt>
-File: ../../Mama/mama/images/M.png Graphic file (type png)
+[28]
 
-<use ../../Mama/mama/images/M.png>
-Package luatex.def Info: ../../Mama/mama/images/M.png used on input line 105.
-(luatex.def)             Requested size: 105.63014pt x 187.77136pt.
+! LaTeX Error: File `../../Mama/mama/images/M' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 ...=0.5\linewidth]{../../Mama/mama/images/M}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 106--106
 []\TU/lmr/m/n/14 Mode de
@@ -1136,89 +1010,98 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--106
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 106--106
-\TU/lmr/m/n/14 paiement-- source
+\TU/lmr/m/n/14 paiement– source
  []
 
-[32<../../Mama/mama/images/J.png><../../Mama/mama/images/K.png>]
-<../../Mama/mama/images/N.png, id=127, 722.7pt x 1284.8pt>
-File: ../../Mama/mama/images/N.png Graphic file (type png)
 
-<use ../../Mama/mama/images/N.png>
-Package luatex.def Info: ../../Mama/mama/images/N.png used on input line 113.
-(luatex.def)             Requested size: 105.63014pt x 187.77136pt.
+! LaTeX Error: File `../../Mama/mama/images/N' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113 ...=0.5\linewidth]{../../Mama/mama/images/N}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 114--114
-[]\TU/lmr/m/n/14 Ef-fec-tuer
+[]\TU/lmr/m/n/14 Effectuer
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 114--114
-\TU/lmr/m/n/14 paiement-- source
+\TU/lmr/m/n/14 paiement– source
  []
 
-<../../Mama/mama/images/O.png, id=128, 722.7pt x 1284.8pt>
-File: ../../Mama/mama/images/O.png Graphic file (type png)
 
-<use ../../Mama/mama/images/O.png>
-Package luatex.def Info: ../../Mama/mama/images/O.png used on input line 121.
-(luatex.def)             Requested size: 117.36763pt x 208.6501pt.
+! LaTeX Error: File `../../Mama/mama/images/O' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 ...=0.5\linewidth]{../../Mama/mama/images/O}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 122--122
-[]\TU/lmr/m/n/14 Confir-mer paiement--
+[]\TU/lmr/m/n/14 Confirmer paiement–
  []
 
-) (./suggestion.tex [33<../../Mama/mama/images/M.png><../../Mama/mama/images/N.p
-ng>]))) [34<../../Mama/mama/images/O.png>]
-\openout2 = conclusion.aux
+) (./suggestion.tex))) [29]
+\openout2 = `conclusion.aux'.
+
  (./conclusion.tex
-chapter 9.
-) [35
+chapter 8.
+) [30
 
 
 
 ]
-\openout2 = bibliographie.aux
- (./bibliographie.tex
-chapter 10.
+\openout2 = `bibliographie.aux'.
 
-Overfull \hbox (26.15585pt too wide) in paragraph at lines 16--17
-[]\TU/lmr/m/n/14 -Jean-Robert KA-LA-KAMD-JOUG «Concep-tion d’une pla-te-form
-e web d’e-commerce
+ (./bibliographie.tex
+chapter 9.
+
+Overfull \hbox (26.15598pt too wide) in paragraph at lines 16--17
+[]\TU/lmr/m/n/14 -Jean-Robert KALAKAMDJOUG «Conception d’une plateforme web d’e
+-commerce
  []
 
-) [36
+) [31
 
 
 
-] [37] (./soutenance.aux (./dedicaces.aux) (./remerciement.aux)
+] [32] (./soutenance.aux (./dedicaces.aux) (./remerciement.aux)
 (./abstract.aux) (./resume.aux) (./accueil.aux) (./cadre-contextuel.aux)
 (./plate-forme.aux) (./conclusion.aux) (./bibliographie.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.57997pt have occurred.
 
-)
 
-Here is how much of LuaTeX's memory you used:
- 15068 strings out of 494481
- 100000,662416 words of node,token memory allocated
- 764 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 24 glue, 1 penalty, 64 attribute, 62 glue_spec, 16 
-attribute_list, 2 write nodes
-   avail lists: 2:1261,3:143,4:23,5:151,6:1999,7:389,8:16,9:194,10:16,11:210
- 18330 multiletter control sequences out of 65536+600000
- 48 fonts using 4400711 bytes
- 48i,11n,68p,8841b,407s stack positions out of 5000i,500n,10000p,200000b,100000s
-</usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regul
-ar.otf></usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman10-re
-gular.otf></usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman12
--regular.otf></usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroma
-n17-regular.otf></usr/local/texlive/2017/texmf-dist/fonts/truetype/google/roboto
-/RobotoCondensed-Bold.ttf>
-Output written on soutenance.pdf (37 pages, 2264016 bytes).
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-PDF statistics: 177 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+ ) 
+Here is how much of TeX's memory you used:
+ 13694 strings out of 493005
+ 289168 string characters out of 6134596
+ 559305 words of memory out of 5000000
+ 17400 multiletter control sequences out of 15000+600000
+ 8593 words of font info for 38 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 45i,11n,66p,10372b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+Output written on soutenance.pdf (32 pages).

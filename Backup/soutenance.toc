@@ -1,0 +1,38 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Dédicace}{4}
+\contentsline {chapter}{\numberline {2}Remerciement}{5}
+\contentsline {chapter}{\numberline {3}Resumé}{6}
+\contentsline {chapter}{\numberline {4}Introduction}{7}
+\contentsline {chapter}{\numberline {5}Structure d'accueil}{8}
+\contentsline {section}{\numberline {5.1}Présentation}{8}
+\contentsline {section}{\numberline {5.2}Les Références de la Structure}{9}
+\contentsline {section}{\numberline {5.3}Déroulement du Stage}{9}
+\contentsline {chapter}{\numberline {6}Cadre Contextuel}{11}
+\contentsline {section}{\numberline {6.1}Problématique}{11}
+\contentsline {section}{\numberline {6.2}Environnement économique}{12}
+\contentsline {chapter}{\numberline {7}Plate-forme d'e-commerce}{13}
+\contentsline {section}{\numberline {7.1}Cadre conceptuel}{13}
+\contentsline {subsection}{\numberline {7.1.1}E-Commerce}{13}
+\contentsline {subsection}{\numberline {7.1.2}Le Marché virtuel}{13}
+\contentsline {subsection}{\numberline {7.1.3}E-Vendeur}{14}
+\contentsline {subsection}{\numberline {7.1.4}E-Acheteur}{14}
+\contentsline {subsection}{\numberline {7.1.5}E-Boutique}{14}
+\contentsline {section}{\numberline {7.2}Approche et démarche d'analyse}{15}
+\contentsline {subsection}{\numberline {7.2.1}Méthode Agile Scrum}{15}
+\contentsline {subsection}{\numberline {7.2.2}Backlog}{16}
+\contentsline {subsection}{\numberline {7.2.3}Items}{16}
+\contentsline {subsection}{\numberline {7.2.4}Sprint}{17}
+\contentsline {subsection}{\numberline {7.2.5}La Mêlée}{18}
+\contentsline {section}{\numberline {7.3}Analyse et Conception}{18}
+\contentsline {subsection}{\numberline {7.3.1}Étude des Processus Métier}{19}
+\contentsline {subsection}{\numberline {7.3.2}Diagramme d'Activité et Objet de Flux}{21}
+\contentsline {subsection}{\numberline {7.3.3}Cas d'Utilisation Métier}{22}
+\contentsline {subsection}{\numberline {7.3.4}Diagramme de Séquence}{23}
+\contentsline {subsection}{\numberline {7.3.5}Diagramme de Déploiement}{25}
+\contentsline {section}{\numberline {7.4}Implémentation}{26}
+\contentsline {subsection}{\numberline {7.4.1}Présentation d'Oqenyite}{26}
+\contentsline {subsubsection}{\nonumberline Effectuer le paiement}{29}
+\contentsline {subsubsection}{\nonumberline confirmer le paiement}{29}
+\contentsline {subsection}{\numberline {7.4.2}Suggestion}{29}
+\contentsline {chapter}{\numberline {8}Conclusion}{30}
+\contentsline {chapter}{\numberline {9}Bibliographie}{31}
