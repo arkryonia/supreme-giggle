@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.6.13)  28 JUN 2018 04:26
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.6.13)  28 JUN 2018 05:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -448,7 +448,7 @@ Package: xpatch 2012/10/02 v0.3 Extending etoolbox patching commands
 (/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-Package scrhack Info: loading setspace hack on input line 193.
+Package scrhack Info: loading setspace hack on input line 192.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/setspace.hak
 File: setspace.hak 2017/04/13 v3.23 KOMA-Script package (hacking package setspa
@@ -1451,6 +1451,17 @@ Package caption Info: End \AtBeginDocument code.
 
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
 (scrlayer)             \begin{document} on input line 92.
+
+Package scrlayer-scrpage Warning: Very small head height detected!
+(scrlayer-scrpage)                Using scrlayer-scrpage the head height
+(scrlayer-scrpage)                should be at least \baselineskip, which is
+(scrlayer-scrpage)                21.89601pt currently.
+(scrlayer-scrpage)                But head height is currently 18.85803pt only.
+
+(scrlayer-scrpage)                You may use
+(scrlayer-scrpage)                geometry option `head=21.89601pt'
+(scrlayer-scrpage)                to avoid this warning.
+
 Package scrbase Info: activating french \acknowledgementname on input line 92.
 \big@size=\dimen187
 Package biblatex Info: XeTeX detected.
@@ -1531,7 +1542,23 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 
 
 
-]) (./resume.tex [2]
+]) (./resume.tex
+
+Package scrlayer-scrpage Warning: \headheight to low.
+(scrlayer-scrpage)                At least 21.896pt needed,
+(scrlayer-scrpage)                but only 18.85803pt found.
+(scrlayer-scrpage)                I'll enlarge \headheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., setting geometry's option
+(scrlayer-scrpage)                `head=21.896pt'.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 1
+.
+
+
+Overfull \vbox (3.03796pt too high) has occurred while \output is active []
+
+
+[2]
 --------------------
  Résumé
 --------------------
@@ -1607,6 +1634,10 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 Chapitre 1.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 6.
 )
 1: section
 [1
@@ -1652,11 +1683,11 @@ Package logreq Info: Writing requests to 'soutenance.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32819 strings out of 493005
- 666961 string characters out of 6134596
- 908751 words of memory out of 5000000
- 36450 multiletter control sequences out of 15000+600000
- 38481 words of font info for 67 fonts, out of 8000000 for 9000
+ 32829 strings out of 493005
+ 667129 string characters out of 6134596
+ 908786 words of memory out of 5000000
+ 36458 multiletter control sequences out of 15000+600000
+ 40740 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  47i,19n,71p,10383b,4943s stack positions out of 5000i,500n,10000p,200000b,80000s
 
