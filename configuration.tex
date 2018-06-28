@@ -1,0 +1,32 @@
+% Toujours les ajouter quand on écrit du francais
+\usepackage[francais]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+\usepackage{fontspec} % utile pour changer de police
+
+
+\usepackage{lipsum, blindtext} % Pour générer de faux texte
+
+\usepackage{setspace}\doublespacing % Double l'espace entre les lignes
+
+\usepackage{graphicx}
+
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+
+\KOMAoptions{%
+	,parskip=half
+	,DIV=14
+	,fontsize=14
+	,headings=big
+	,numbers=enddot
+}
+
+\setsansfont{RobotoCondensed}[
+,Extension=.ttf
+,UprightFont=*-Regular
+,BoldFont=*-Bold
+]
+

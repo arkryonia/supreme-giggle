@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE vymmap>
+
+<vymmap  version="2.5.0" author="" title="" comment="" date="2018-05-16" branchCount="39" backgroundColor="#ffffff" defaultFont="Cantarell,16,-1,5,50,0,0,0,0,0" selectionColor="#ffff00" linkStyle="StylePolyParabel" linkColor="#0000ff" defXLinkColor="#3232ff" defXLinkWidth="1" defXLinkPenStyle="Qt::DashLine" defXLinkStyleBegin="HeadFull" defXLinkStyleEnd="HeadFull" mapZoomFactor="1" mapRotationAngle="0">
+    <mapcenter absPosX="135.274" absPosY="-95.4079" hideLink="false" uuid="{9d20aeb2-38ed-4e9d-9a68-bedf0b8e7252}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Thème L3(PRO) SIL</heading>
+        <frame  frameType="Rectangle" penColor="#000000" brushColor="#ffffff" padding="0" borderWidth="1" /><vymnote  textMode="plainText"  fonthint="var"  textColor="#000000">Compception et Implémentation d'une Plate-forme d'e-Commerce: Cas d'Oqenyite</vymnote>
+        <branch relPosX="167.71" relPosY="206.537" hideLink="false" uuid="{6023c059-c72d-43d9-a948-23711bdc2981}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Dédicaces</heading>
+        </branch>
+        <branch relPosX="-348.93" relPosY="-33.7973" hideLink="false" uuid="{ebb128d4-5bbe-4786-859b-38187d975db9}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Remerciements</heading>
+        </branch>
+        <branch relPosX="44.2933" relPosY="-358.416" hideLink="false" uuid="{b203eea3-29da-4157-9466-c4fe3329be08}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Introduction</heading>
+        </branch>
+        <branch relPosX="146.869" relPosY="61.9917" hideLink="false" uuid="{5c998f22-04e8-4e90-998c-4a8369b68cbb}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Structure d'Accueil</heading>
+            <branch hideLink="false" uuid="{c7e14a5e-a59c-4fff-96df-8806f1177411}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Présentation</heading>
+            </branch>
+            <branch hideLink="false" uuid="{8ca93fa3-1c4c-45cd-af1b-60a0150feb7e}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Les références de la structure</heading>
+            </branch>
+            <branch hideLink="false" uuid="{f5ec8036-3790-4832-8435-63f99f848315}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Déroulement du statge</heading>
+            </branch>
+        </branch>
+        <branch relPosX="-270.621" relPosY="74.4207" hideLink="false" uuid="{85c4dcc5-9428-4760-8c2d-c0f7363ec180}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Cadre contextuel</heading>
+            <branch hideLink="false" uuid="{120881e0-aaa9-4a4d-82f0-a179dfcc211f}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Problématique</heading>
+            </branch>
+            <branch hideLink="false" uuid="{0298af55-0e08-4364-b693-d719d21b0121}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Environnement éconmiquee</heading>
+            </branch>
+            <branch hideLink="false" uuid="{28bc2621-083b-4cd9-a11a-7ed36aaad1b3}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Objectifs</heading>
+            </branch>
+        </branch>
+        <branch relPosX="-355.35" relPosY="-173.35" hideLink="false" uuid="{b28124d2-4d41-45e9-a6c6-0e0c3a238a1e}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Cadre Conceptuel</heading>
+            <branch hideLink="false" uuid="{205630e7-9cbe-4c3e-8bd3-3d674baef828}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">e-Commerce</heading>
+            </branch>
+            <branch hideLink="false" uuid="{9b1621f3-02c0-49bc-908f-b1f7ef1c839a}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Marché Virtuel</heading>
+            </branch>
+            <branch hideLink="false" uuid="{b11d89d0-24e8-4f38-9497-1b8dc0c330c4}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">e-Vendeur</heading>
+            </branch>
+            <branch hideLink="false" uuid="{8ad37a65-1fa6-44c1-bc93-aedc9688dca2}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">e-Acheteur</heading>
+            </branch>
+            <branch hideLink="false" uuid="{dd2a2a79-492e-483c-b64b-3c571a6a6100}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">e-Boutique</heading>
+            </branch>
+        </branch>
+        <branch relPosX="114.522" relPosY="-161.458" hideLink="false" uuid="{8cbb1dbb-a336-49ba-a405-551cf9c28859}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Plate-forme e-commerce</heading>
+            <branch hideLink="false" uuid="{1d95a7c5-c95b-43d9-85d9-96e907874328}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Approche</heading>
+                <branch hideLink="false" uuid="{1b4f2937-5d79-4b0c-b093-a3d1aaf3f3a6}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Démarche d'Analyse</heading>
+                    <branch hideLink="false" uuid="{9a475564-90c0-4cc3-b080-8a2325b8985b}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">UML</heading>
+                    </branch>
+                </branch>
+                <branch hideLink="false" uuid="{e3478a5a-4b7c-454d-b3ec-8d0cc2eeaed6}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Méthode Agile Scrum</heading>
+                    <branch hideLink="false" uuid="{a893a189-578b-4497-989d-a779df656613}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Backlog</heading>
+                    </branch>
+                    <branch hideLink="false" uuid="{a83fedb9-51cf-4567-8d38-fa8485463d16}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Items</heading>
+                    </branch>
+                    <branch hideLink="false" uuid="{3011ad50-f60f-4274-8b04-5c9de0fd9471}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Sprint</heading>
+                    </branch>
+                    <branch hideLink="false" uuid="{c244c576-a32e-43ca-bb0e-242fc8151931}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">La mêlée</heading>
+                    </branch>
+                </branch>
+            </branch>
+            <branch hideLink="false" uuid="{5594e050-a01b-4269-ac41-20105b6647f0}"><heading  textMode="plainText"  fonthint="undef"  textColor="#d95100">Analyse et Conception</heading>
+                <branch hideLink="false" uuid="{cdfb0c90-0a24-4b80-aed4-5c1dd379ff3a}"><heading  textMode="plainText"  fonthint="undef"  textColor="#d95100">Etude des processus métiers</heading>
+                </branch>
+                <branch hideLink="false" uuid="{23845b03-b40e-42dc-b095-1762c5f1cd8d}"><heading  textMode="plainText"  fonthint="undef"  textColor="#d95100">Diagramme d'Activité et Objet de Flux</heading>
+                </branch>
+                <branch hideLink="false" uuid="{88cfdedd-7f4e-4dd7-9843-cdabd1139ff4}"><heading  textMode="plainText"  fonthint="undef"  textColor="#d95100">Cas d'Utilisation métier</heading>
+                </branch>
+                <branch hideLink="false" uuid="{7c0b8774-a78e-414d-bf11-f6105de26106}"><heading  textMode="plainText"  fonthint="undef"  textColor="#d95100">Diagramme de Séquences</heading>
+                </branch>
+                <branch hideLink="false" uuid="{5376ad3e-2dd8-482b-8092-646fe0f74120}"><heading  textMode="plainText"  fonthint="undef"  textColor="#d95100">Diagramme de déploiement</heading>
+                </branch>
+            </branch>
+            <branch hideLink="false" uuid="{248a1a95-ce5a-4776-b870-7f072a477b67}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Implémentation</heading>
+                <branch hideLink="false" uuid="{df2bcb28-d47b-4d02-af95-7f267fe19eee}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Cas d'Oqenyite</heading>
+                </branch>
+                <branch hideLink="false" uuid="{5067ffaf-ec67-48c1-9381-42db469cfe65}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Suggestions</heading>
+                </branch>
+            </branch>
+        </branch>
+        <branch relPosX="-265.71" relPosY="-331.537" hideLink="false" uuid="{54eadb1c-f5e7-4e8b-acb5-818c91c6500f}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Bibliographie</heading>
+        </branch>
+        <branch relPosX="-326.193" relPosY="191.5" hideLink="false" uuid="{8f59566f-362d-4899-af77-99ce41ba374e}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Annexes</heading>
+        </branch>
+        <branch relPosX="-271" relPosY="313" hideLink="false" uuid="{b3d08e90-8c85-4e94-9c99-5fc3f1ba2081}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Conclusion</heading>
+        </branch>
+    </mapcenter>
+    <select>mc:0,bo:2</select>
+</vymmap>
